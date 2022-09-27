@@ -70,9 +70,9 @@ content/participant/<YOUR-USERNAME>.md/
 
 ```
 ---
-name: YOURNAME
-institution/company: INSTITUTION_NAME
-github:USERNAME
+name: <YOURNAME>
+institution/company: <INSTITUTION_NAME>
+github: <USERNAME>
 ---
 ```
 
