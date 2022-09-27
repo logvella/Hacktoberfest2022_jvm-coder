@@ -1,4 +1,4 @@
-### Copy the below template into your <NAME>.md file, delete the boilerplate data and fill the information with yours.
+### Copy the below template into your [NAME].md file, delete the boilerplate data and fill the information with yours.
 
 ```
 ---
